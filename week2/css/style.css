@@ -1,0 +1,119 @@
+/* Body Background */
+
+/* Nav */
+
+nav {
+    
+    margin: 30px auto;   
+    position: relative;
+  }
+
+
+body {
+      background-image: url(../images/foamy-beer.jpg);
+      background-position: top;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size : cover;
+      background-color: white;
+      margin-top: 0;
+      position: relative;
+      font-family: 'Helvetica Neue', sans-serif;
+      font-weight: normal;
+    }
+
+main{
+    font-size: 1.2em;
+    }
+      
+header {
+        font-size: .65em;
+      font-weight: 600;
+      font-style: oblique;
+      text-align: center;
+      }
+
+section {
+          float: center;
+}
+
+.content{
+  text-align: justify;
+  width: 50%;
+  margin: auto;
+  margin-top: 30px ;
+  margin-bottom: 20px;
+
+}
+
+.beers{
+  text-align: justify;
+  /*width: 50%;*/
+  margin: auto;
+  margin-top: 30px ;
+  margin-bottom: 20px;
+  /*float: left;*/
+
+}
+/* links */
+
+a {
+  color: #514326; /*cba95f*/
+  font-size: 1.0em;
+  font-weight: bold;
+  text-decoration: none;    
+}
+a:hover {
+  text-decoration: none;
+  color:#cc0000;
+  } 
+
+/*  Navigation */
+
+ul{
+  font-weight: 200;
+  font-size: 150%;
+  color: black;
+  width: 50%;
+  margin: auto; 
+  padding:20px;
+  position: relative;
+  
+}
+
+li a {
+  color:#514326;
+  font-size: 1.1em;
+  text-decoration: none;
+  margin: 20px 18px 0 20px; 
+}
+  
+li a:hover {
+  text-decoration: none;
+  color: #cc0000;
+  } 
+  
+  
+li {
+    display: inline;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+figure{
+  width: 50%;
+  margin: auto;
+  margin-top: 30px ;
+  margin-bottom: 20px;
+  }
+
+footer{
+    text-color:black;
+    text-align: center;
+    font-size: 1.0em;
+    text-weight:100;
+    margin-top: 60px
+}
