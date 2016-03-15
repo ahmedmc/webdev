@@ -1,0 +1,17 @@
+Week 12
+
+Multi choice 30 questions. Quiz like questions 1 mark each. true false questions.
+
+3 questions long answers.
+small lab type questions
+Arrays.. sql.. regular expressions.. open book..>> pdf.. php.net.. assignments.. labs.
+
+no file uploads or images in exam
+-------------
+
+
+Image creation....
+
+send header .
+
+header ("content-Type: image/jpeg or png");
